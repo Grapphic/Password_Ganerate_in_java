@@ -13,7 +13,7 @@ This is a simple Java application that generates passwords based on user input a
 ## How to Use
 
 1. Clone the repository to your local machine.
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/Grapphic/Password_Ganerate_in_java.git
 
 2. Open the project in your preferred Java IDE.
 
